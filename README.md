@@ -1,4 +1,4 @@
-# Unifacisa - Criando o primeiro Media Player
+# Unifacisa - Criando o primeiro Music Player
 
 Primeiro projeto da cadeira Programar WEB Front-end da Unifacisa, no primeiro período.
 
